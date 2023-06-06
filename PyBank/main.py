@@ -1,6 +1,6 @@
 import os #import dependencies
 import csv
-# print(os.getcwd())
+
 csvpath = os.path.join("Resources", "budget_data.csv") #create paths for external files
 textpath = os.path.join("Analysis", "analysis.txt")
 
